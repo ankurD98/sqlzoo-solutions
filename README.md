@@ -1,2 +1,2 @@
 # sqlzoo-solutions
-My solutions to all levels of sqlzoo.
+My solutions to the challenges on http://sqlzoo.net
